@@ -64,7 +64,8 @@ git pull
 
 ## Project Structure
 
-Everything you need to start happens in ``higher-lower-app/common/src/main/java/com/codenameone/higherlower/HigherLower.java``
+Everything you need to start happens in:
+```higher-lower-app/common/src/main/java/com/codenameone/higherlower/HigherLower.java```
 
 ## Features
 
