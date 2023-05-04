@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.codenameone:codenameone-javase:7.0.106">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codenameone/codenameone-javase/7.0.106/codenameone-javase-7.0.106.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codenameone/codenameone-javase/7.0.106/codenameone-javase-7.0.106-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/codenameone/codenameone-javase/7.0.106/codenameone-javase-7.0.106-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
